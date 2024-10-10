@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan Hazarie</h1>
-<h3 align="center">Final Year Software Engineering Student at University of Malaysia</h3>
+<h3 align="center">Final Year Software Engineering Student at University of Malaya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanhzre&label=Profile%20views&color=0e75b6&style=flat" alt="irfanhzre" /> </p>
 
